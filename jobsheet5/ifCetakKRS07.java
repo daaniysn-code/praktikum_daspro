@@ -18,6 +18,8 @@ public class ifCetakKRS07 {
                 System.out.println("Registrasi ditolak. Silakan lunasi UKT terlebih dahulu");
             }
 
+        String x = (uktlunas) ? "benar" : "salah";
+        System.out.println("Status UKT: " +x);
         }
     
 }
