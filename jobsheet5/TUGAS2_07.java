@@ -15,6 +15,4 @@ public class TUGAS2_07 {
         }
 
     }
-
-    
 }

@@ -2,8 +2,7 @@ import java.util.Scanner;
 
 public class CaseMethod07 {
     public static void main(String[] args) {
-
-        Scanner input = new Scanner(System.in);
+         Scanner sc = new Scanner(System.in);
 
         //Input data diri Mahasiswa
         System.out.println("===== INPUT DATA MAHASISWA ====");
